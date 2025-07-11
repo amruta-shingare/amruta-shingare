@@ -8,7 +8,26 @@ I specialize in crafting clean, intuitive user experiences — or experimenting 
 ### 🚀 My Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,java,mysql,git,github,c,cpp,vscode" height="40" />
+  <!-- Line 1 -->
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
+</p>
+
+<p align="left">
+  <!-- Line 2 -->
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+</p>
+
+<p align="left">
+  <!-- Line 3 -->
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" />
 </p>
 
 ---
