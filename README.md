@@ -1,5 +1,7 @@
-## 👋 Hey There! I’m Amruta
-I’m a front-end developer passionate about building beautiful and user-friendly interfaces using modern technologies — or exploring new tools to make them better!
+## 👋 Hey there! I’m Amruta
+
+A passionate front-end developer who loves turning ideas into visually stunning and responsive web interfaces.  
+I specialize in crafting clean, intuitive user experiences — or experimenting with the latest tech to make them even better!
 
 
 ### 🚀 My Tech Stack
