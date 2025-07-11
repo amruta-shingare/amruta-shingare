@@ -3,20 +3,12 @@
 A passionate front-end developer who loves turning ideas into visually stunning and responsive web interfaces.  
 I specialize in crafting clean, intuitive user experiences — or experimenting with the latest tech to make them even better!
 
+---
 
 ### 🚀 My Tech Stack
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" width="40" />
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" width="40" />
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" title="Tailwind CSS" width="40" />
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" width="40" /><br>
-  <img src="https://img.icons8.com/officel/48/react.png" title="React" width="40" />
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" title="Java" width="40" />
-  <img src="https://img.icons8.com/color/48/c-programming.png" title="C" width="40" /><br>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++" width="40" />
-  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" title="MySQL" width="40" />
-  <img src="https://img.icons8.com/color/48/git.png" title="Git" width="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,java,mysql,git,github,c,cpp,vscode" height="40" />
 </p>
 
 ---
@@ -25,9 +17,9 @@ I specialize in crafting clean, intuitive user experiences — or experimenting 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/amruta-shingare" target="_blank" title="LinkedIn">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" />
   </a>
   <a href="mailto:amrutashingare7@gmail.com" title="Gmail">
-    <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40"/>
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" />
   </a>
 </p>
