@@ -8,31 +8,31 @@ I specialize in crafting clean, intuitive user experiences — or experimenting 
 ### 🚀 My Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="50" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="50" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=c" height="50" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" />
 </p>
 
 ---
@@ -41,10 +41,10 @@ I specialize in crafting clean, intuitive user experiences — or experimenting 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/amruta-shingare" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
   </a>
   &nbsp;
   <a href="mailto:amrutashingare7@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="60" />
   </a>
 </p>
